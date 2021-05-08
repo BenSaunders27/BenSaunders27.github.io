@@ -130,12 +130,20 @@ div.bibinfo pre { clear:both; }
   color: #fff;
 }
 .nav-link:hover{
-  color: #ffa8d5;
+  color: #98AFC7;
 }
 
+/* .nav-link:hover{
+  color: #ffa8d5;
+} */
+
 a {
-  color: #e10879;
+  color: #98AFC7;
 }
+
+/* a { */
+/*   color: #e10879; */
+/* } */
 
 /* Sticky footer styles
 -------------------------------------------------- */
