@@ -123,14 +123,23 @@ div.bibinfo pre { clear:both; }
 }
 
 .fa-bars {
-  color: #fff;
+  color: #0000A0;
 }
 
-.nav-link {
+/* .fa-bars {
   color: #fff;
+} */
+
+.nav-link {
+  color: #0000A0;
 }
+
+/* .nav-link {
+  color: #fff;
+} */
+
 .nav-link:hover{
-  color: #98AFC7;
+  color: #0000A0;
 }
 
 /* .nav-link:hover{
@@ -138,7 +147,7 @@ div.bibinfo pre { clear:both; }
 } */
 
 a {
-  color: #98AFC7;
+  color: #0000A0;
 }
 
 /* a { */
